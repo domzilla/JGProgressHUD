@@ -373,7 +373,7 @@
 		6BC0186B197B2AA500DA4C49 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1020;
+				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = "Jonas Gessner";
 				TargetAttributes = {
 					6BABF9A21F7A6133005E783F = {
@@ -387,11 +387,11 @@
 			};
 			buildConfigurationList = 6BC0186E197B2AA500DA4C49 /* Build configuration list for PBXProject "JGProgressHUD" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = 6BC0186A197B2AA500DA4C49;
 			productRefGroup = 6BC01874197B2AA500DA4C49 /* Products */;
