@@ -107,7 +107,7 @@
     JGProgressHUD *HUD = self.prototypeHUD;
     
     [HUD showInView:self.navigationController.view];
-    
+
     [HUD dismissAfterDelay:4.0];
 }
 
